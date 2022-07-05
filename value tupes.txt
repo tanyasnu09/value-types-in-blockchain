@@ -1,0 +1,6 @@
+pragma solidity 0.6.0;// VALUE TYPES IN SOLIDITY SMART CONTRACT
+contract simplestorage
+{
+    uint256 number =258;
+    bool numbers = true;
+}
